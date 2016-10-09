@@ -7,3 +7,10 @@ Grab 2 knives
 Dip one knife in PB and spread on a slice of bread
 Grab the other knife and dip in Jelly jar and spread on the other slice
 Lift pb slice and put on top of the jelly slice (pb & j facing each other)
+
+
+// edge cases
+1. Where to obtain PB&J/Bread
+2. What kind of knife to use to slice bread
+3. How much PB&J to put on the bread
+4. Type of PB&J/Bread
