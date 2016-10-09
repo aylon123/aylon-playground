@@ -1,16 +1,22 @@
 To Do
 
+Go to store
+If first choice PB&J and Bread then compromise (and have alternate options)
+if store doesn't have PB&J and/or bread, then go tot a different store
 Obtain PB&J + bread
+Find bread knife or another serrated knife
 Slice bread if necessary
 Open PB & J jars
 Grab 2 knives
+Cover 90% of the bread surface with PB
 Dip one knife in PB and spread on a slice of bread
+Cover 90% of the bread with J
 Grab the other knife and dip in Jelly jar and spread on the other slice
 Lift pb slice and put on top of the jelly slice (pb & j facing each other)
 
 
 // edge cases
-1. Where to obtain PB&J/Bread
-2. What kind of knife to use to slice bread
-3. How much PB&J to put on the bread
-4. Type of PB&J/Bread
+1.
+2.
+3.
+4.
